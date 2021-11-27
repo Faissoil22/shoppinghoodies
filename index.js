@@ -115,7 +115,7 @@ function displayCart() {
         productContainer.innerHTML += `
          <div class="basketTotalContainer">
            <h4 class="basketTotalTitle">
-           Basket Total
+             Total Panier
            </h4>
            <h4 class"basketTotal">
              ${cartCost},00 €
